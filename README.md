@@ -17,7 +17,7 @@
 
 ## Demo
 
-- Link: ![image-caption-generator](https://image-caption-generator-app.streamlit.app/)
+- Link: [image-caption-generator](https://image-caption-generator-app.streamlit.app/)
 
 `Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues. We apologize for any inconvenience.
 
